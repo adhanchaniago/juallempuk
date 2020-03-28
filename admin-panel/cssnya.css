@@ -1,0 +1,126 @@
+/* CSS Document */
+body
+	{
+		padding:0;
+		margin:0;
+		background:#f7f7f7;
+	}
+#link-menu h3 {margin:0;padding:7px 4px;;background:#f0f0f0;border-bottom:1px solid #ccc;}
+#link-menu 
+{
+position:fixed;
+margin:0;
+padding:0;
+float:left;
+width:230px;
+border-right:1px solid #ccc;
+border-left:1px solid #ccc;
+}
+#link-menu a {color:#07c;font-weight:bold;}
+a {text-decoration:none;}
+#menus 
+	{
+	margin:0;
+	padding:0;
+	}
+#menus li img {float:left;width:24px;margin:-5px 4px 0 2px;padding:0;}
+#menus li a
+	{
+	display:block;
+	text-decoration:none;
+}
+#menus li a:hover {color:white;}
+#menus li:hover
+	{
+		background:#60d000;
+	}
+#menu-top h3 {text-transform:uppercase;margin:0;padding:7px 0;color:#666;}
+#menu-top
+		{	
+			width:69%;
+			margin:0 0 10px 0;
+			padding:0;
+			float:right;
+		}
+#menus li 
+	{
+
+		list-style:none;
+		margin:0;
+		padding:10px 4px;
+		background:#f5f5f5;
+		border-top:1px solid #fff;
+		border-bottom:1px solid #ccc;
+		
+	}
+#menu-manager 
+	{
+	width:70%;
+	float:right;
+	}
+#wrapper {
+		
+		max-width:900px;
+		margin:67px auto 0 auto;
+		background:#f7f7f7;
+		
+		
+		}
+		.logo
+		{
+		max-width:900px;
+		margin:0 auto;
+		padding:0;
+		}
+.logo img	{
+		width:210px;
+		}
+#logo 
+		{
+		padding:10px;
+		margin:0;
+		position:fixed;
+		background:#f3f3f3;
+		left:0;
+		top:0;
+		bottom:auto;
+		right:0;
+		border-bottom:3px solid #bbb;
+		}
+#footer {
+	display:inline-block;
+	width:100%;
+	background:#f5f5f5;
+	text-align:center;
+	}
+#footer h5 
+	{
+	padding:20px;
+	margin:0;
+	}
+	#header h1 
+	{
+		padding:20px;
+	}
+#header 
+	{
+		padding:0;
+		margin:0;
+	}
+#submenu span
+			{
+			margin:10px;
+			padding:10px;
+			background:orange;
+			
+			}
+#profile input[type=submit]
+{width:100px;height:30px;background:#07c;color:white;font-weight:bold;border:0px;margin:7px 0 10px 0;border-radius:4px;cursor:pointer;} 
+#profile input[type=text] 
+		{
+		width:300px;height:30px;border:1px solid #ccc;border-radius:4px;font-size:15px;
+		}
+#profile h4
+{margin:0;padding:5px 3px;}
+#sukses {margin:0;padding:0;background:lightgreen;}
+#sukses h4 {margin:0;padding:9px;color:#000;}
